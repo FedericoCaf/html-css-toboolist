@@ -31,7 +31,7 @@ header{
 .container{
 margin: 40px auto 0;
 border-radius: 3px;
-width: 60%;
+width: 50%;
 background-color:white;
 padding: 10px;
 border-bottom: 1px solid lightgrey;
@@ -62,7 +62,7 @@ border-bottom: 1px solid lightgrey;
 .main-content{
   margin: 0 auto;
   border-radius: 3px;
-  width: 60%;
+  width: 50%;
   height: 500px;
   background-color:white;
   padding: 20px;
@@ -72,22 +72,51 @@ h3{
   font-weight: bold;
 }
 
-h4{
-  font-size: 15px;
+h5{
+ margin: 10px auto;
 }
 
-.text-decoration{
+
+
+.general-decoration{
   display: inline-block;
   line-height: 23px;
   width: 60px;
   font-size: 10px;
-  background-color:dodgerblue;
   color: white;
   border-radius: 10px;
   text-align: center;
-
 }
 
 .section1{
   margin-bottom: 30px;
 }
+
+.section2{
+  margin-bottom: 30px;
+}
+
+.blue-decoration{
+  background-color: dodgerblue;
+}
+
+.purple-decoration{
+  background-color:rebeccapurple;
+}
+
+.green-decoration{
+  background-color:limegreen;
+}
+
+.orange-decoration{
+  background-color:orange;
+}
+
+.pink-decoration{
+  background-color:fuchsia;
+}
+
+.lime-decoration{
+  background-color:lime;
+}
+
