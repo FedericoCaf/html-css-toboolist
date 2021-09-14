@@ -1,0 +1,93 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: lightgrey;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+  width: 100%;
+  height: 80px;
+  background-color: white;
+  padding: 10px;
+  border-top: 1px solid lightgrey;
+}
+
+#logo{
+   vertical-align: middle;
+   height: 60px;
+}
+
+#logo-name{
+  font-size: 35px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: bold;
+ }
+
+.container{
+margin: 40px auto 0;
+border-radius: 3px;
+width: 60%;
+background-color:white;
+padding: 10px;
+border-bottom: 1px solid lightgrey;
+}
+
+.add-task{
+  margin-left: 20px;
+  width: 60px;
+  height: 20px;
+  background-color:dodgerblue;
+  font-size: 11px;
+  color: white;
+  border-radius: 5px;
+  border-bottom: 0;
+  border:none;
+}
+
+.add-section{
+  width: 80px;
+  height: 20px;
+  background-color:white;
+  font-size: 11px;
+  color: lightgrey;
+  border-radius: 5px;
+  border-color:lightgray;
+}
+
+.main-content{
+  margin: 0 auto;
+  border-radius: 3px;
+  width: 60%;
+  height: 500px;
+  background-color:white;
+  padding: 20px;
+}
+
+h3{
+  font-weight: bold;
+}
+
+h4{
+  font-size: 15px;
+}
+
+.text-decoration{
+  display: inline-block;
+  line-height: 23px;
+  width: 60px;
+  font-size: 10px;
+  background-color:dodgerblue;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+
+}
+
+.section1{
+  margin-bottom: 30px;
+}
