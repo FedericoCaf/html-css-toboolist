@@ -106,10 +106,11 @@ p{
   content: "\01F5F8";
   color: green;
   background-color:white;
-  padding: 0 2px;
+  padding: 0 2.5px;
+  margin-right: 10px;
   border: 1px solid green;
   border-radius: 50%;
-  margin-right: 8px;
+  
 }
 
 .check-mark-red::before{
@@ -117,10 +118,11 @@ p{
   font-size: 10px;
   color: red;
   background-color:white;
-  padding: 2px 3px;
+  padding: 2px 3.5px;
+  margin-right: 10px;
   border: 1px solid red;
   border-radius: 50%;
-  margin-right: 8px;
+  
 }
 
 .blue-decoration{
